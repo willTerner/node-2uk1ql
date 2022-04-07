@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "webpack",
+    "start": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^13.0.1",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.8.0"
+  }
+}

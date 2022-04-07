@@ -18,6 +18,7 @@ const config = {
     minimize: false,
     splitChunks: {
       minSize: 0,
+      minChunks: 3,
     },
   },
   context: __dirname,
